@@ -1,0 +1,61 @@
+#We reach an optimum sigma but 'l' has not much effect on error!
+
+(sigma,l) : (1,1)
+
+Mean squared error for the linear model is: 0.1611052658
+Mean squared errorfor GPR is: 0.3894240673
+
+(sigma,l) : (10,1)
+
+Mean squared error for the linear model is: 0.1268882624
+Mean squared errorfor GPR is: 0.3690756908
+
+(sigma,l) : (50,1)
+
+Mean squared error for the linear model is: 0.2015352843
+Mean squared errorfor GPR is: 0.2164591972
+
+(sigma,l):(75,1)
+
+Mean squared error for the linear model is: 0.1718666795
+Mean squared errorfor GPR is: 0.1671773419
+
+(sigma,l) : (100,1)
+
+Mean squared error for the linear model is: 0.2762269337
+Mean squared errorfor GPR is: 0.3113301650
+
+(sigma,l) : (200,1)
+
+Mean squared error for the linear model is: 0.1443215990
+Mean squared errorfor GPR is: 0.1460400600
+
+(sigma,l) : (500,1)
+
+Mean squared error for the linear model is: 0.2888245868
+Mean squared errorfor GPR is: 0.2956711888
+
+(sigma,l) : (75,0.4)
+
+Mean squared error for the linear model is: 0.2096775607
+Mean squared errorfor GPR is: 0.2341971831
+
+(sigma,l) : (75,5)
+
+Mean squared error for the linear model is: 0.2582964038
+Mean squared errorfor GPR is: 0.2704346949
+
+(sigma,l) : (75,10)
+
+Mean squared error for the linear model is: 0.1812161850
+Mean squared errorfor GPR is: 0.1800867760
+
+(sigma,l) : (75,50)
+
+Mean squared error for the linear model is: 0.2114793349
+Mean squared errorfor GPR is: 0.2162537405
+
+(sigma,l) : (75,75)
+
+Mean squared error for the linear model is: 0.2796274390
+Mean squared errorfor GPR is: 0.2851315796

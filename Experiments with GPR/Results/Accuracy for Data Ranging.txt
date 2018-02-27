@@ -1,0 +1,27 @@
+***  The accuracy of Linear model is more in this case as we are effectively changing the ranges to again 0-100 and then using it to predict!
+
+
+>>>For training ranging from 0-100 in x1 train and 300-400 in x1 test:-
+
+Mean squared error for the linear model is: 0.0000207505
+Mean squared errorfor GPR is: 0.0007585764
+
+>>>For training ranging from 0-100 in x1 train and 500-600 in x1 test:-
+
+Mean squared error for the linear model is: 0.0000207236
+Mean squared errorfor GPR is: 0.0007579788
+
+>>>For training ranging from 0-100 in x1 train and -200-(-100) in x1 test:-
+
+Mean squared error for the linear model is: 0.0000163694
+Mean squared errorfor GPR is: 0.0006755753
+
+>>>For training ranging from 0-100 in x1 train and 1000-(1100) in x1 test:-
+
+Mean squared error for the linear model is: 0.0000353439
+Mean squared errorfor GPR is: 0.0010064371
+
+>>>For training ranging from 0-100 in x1 train and (-1100)-(-1000) in x1 test:-
+
+Mean squared error for the linear model is: 0.0000437800
+Mean squared errorfor GPR is: 0.0008191817

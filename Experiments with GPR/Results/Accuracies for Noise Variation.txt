@@ -1,0 +1,56 @@
+***    Here also Linear Regression Rules *** 
+
+>>>For noise variation as (0,1) we get:-
+
+Mean squared error for the linear model is: 0.0000211595
+Mean squared errorfor GPR is: 0.0007288664
+
+>>>For noise variation as (0,10) we get:-
+
+Mean squared error for the linear model is: 0.0022484797
+Mean squared errorfor GPR is: 0.2237571362
+
+>>>For noise variation as (0,50) we get:-
+
+Mean squared error for the linear model is: 0.0083530387
+Mean squared errorfor GPR is: 0.2353817968
+
+>>>For noise variation as (0,100) we get:-
+
+Mean squared error for the linear model is: 0.0430781442
+Mean squared errorfor GPR is: 0.2720123189
+
+>>>For noise variation as (0,400) we get:-
+
+Mean squared error for the linear model is: 0.2205892292
+Mean squared error: 0.2268918974
+
+>>>For noise variation as (0,400) we get:-
+
+Mean squared error for the linear model is: 0.2032645937
+Mean squared error: 0.2073995450
+
+>>>For noise variation as (0,600) we get:-
+
+Mean squared error for the linear model is: 0.1906741358
+Mean squared errorfor GPR is: 0.2111686014
+
+>>>For noise variation as (0,900) we get:-
+
+Mean squared error for the linear model is: 0.2322241757
+Mean squared errorfor GPR is: 0.2405578789
+
+>>>For noise variation as (0,1000) we get:-
+
+Mean squared error for the linear model is: 0.1084470759
+Mean squared errorfor GPR is: 0.1168563747
+
+>>>For noise variation as (0,1200) we get:-
+
+Mean squared error for the linear model is: 0.1201096811
+Mean squared errorfor GPR is: 0.1219125752
+
+>>>For noise variation as (0,1500) we get:-
+
+Mean squared error for the linear model is: 0.1623072601
+Mean squared errorfor GPR is: 0.1659302335

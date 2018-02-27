@@ -1,0 +1,49 @@
+##    Linear Regression leads in this case by a 10X margin !
+
+#Introducing Outliers in training dataset!
+list_y[100] = 1200
+list_y[200] = 1500
+list_y[400] = 1150
+list_y[600] = 1300
+list_y[800] = 1500
+list_y[150] = 1300
+list_y[270] = 1250
+list_y[320] = 1150
+list_y[500] = 1400
+list_y[700] = 1250
+list_y[900] = 1500
+
+Mean squared error for the linear model is: 0.0558568880
+Mean squared errorfor GPR is: 0.5664797663
+
+#Introducing Outliers in training dataset!
+list_y[100] = 1200
+list_y[200] = 1500
+list_y[150] = 1150
+list_y[75] = 1300
+list_y[0] = 1500
+list_y[170] = 1300
+list_y[27] = 1250
+list_y[130] = 1150
+list_y[50] = 1400
+list_y[230] = 1250
+list_y[250] = 1500
+
+Mean squared error for the linear model is: 0.0491614330
+Mean squared errorfor GPR is: 0.5833558234
+
+#Introducing Outliers in training dataset!
+list_y[350] = 1200
+list_y[370] = 1500
+list_y[400] = 1150
+list_y[450] = 1300
+list_y[500] = 1500
+list_y[525] = 1300
+list_y[550] = 1250
+list_y[575] = 1150
+list_y[600] = 1400
+list_y[620] = 1250
+list_y[650] = 1500
+
+Mean squared error for the linear model is: 0.0548594275
+Mean squared errorfor GPR is: 0.4463948561
